@@ -8,10 +8,10 @@
 
 package org.csource.fastdfs;
 
+import java.io.IOException;
+
 import org.csource.common.MyException;
 import org.csource.common.NameValuePair;
-
-import java.io.IOException;
 
 /**
  * Storage client for 1 field file id: combined group name and filename
